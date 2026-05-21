@@ -35,14 +35,21 @@ body {
 }
 
 /* Grid background */
-/* .grid-bg {
+/*
+.grid-bg {
   background-image: linear-gradient(
       rgba(99, 120, 255, 0.03) 1px,
       transparent 1px
     ),
-    linear-gradient(90deg, rgba(99, 120, 255, 0.03) 1px, transparent 1px);
-  background-size: 60px 60px;  /* ← grid cell size */
-/* } */ */
+    linear-gradient(
+      90deg,
+      rgba(99, 120, 255, 0.03) 1px,
+      transparent 1px
+    );
+
+  background-size: 60px 60px;
+}
+*/
 
 /* Noise overlay */
 .noise-overlay::before {

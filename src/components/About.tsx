@@ -108,10 +108,10 @@ export default function About() {
           {/* Career Objective */}
           <div className="bg-gradient-to-br from-[rgba(99,120,255,0.08)] to-[rgba(167,139,250,0.05)] border border-[rgba(99,120,255,0.3)] rounded-xl p-6">
             <p className="text-slate-400 text-[0.95rem] leading-relaxed italic">
-              "My goal is to contribute to impactful products through
+              &quot;My goal is to contribute to impactful products through
               full-stack engineering, backend development, and scalable
               system design while continuously growing as a software
-              engineer."
+              engineer.&quot;
             </p>
           </div>
         </motion.div>
